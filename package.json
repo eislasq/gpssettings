@@ -1,0 +1,18 @@
+{
+    "version": "0.1",
+    "name": "com.hacheiq.gpsetts",
+    "cordova_name": "GPS Settings",
+    "description": "Open GPS Settings Page",
+    "license": "Apache 2.0",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "gps"
+    ],
+    "platforms": [
+        "android",
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
